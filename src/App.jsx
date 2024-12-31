@@ -30,6 +30,9 @@ const App = () => {
 
   return (
     <div className="flex justify-center items-center h-screen w-screen bg-neutral-darkBlue">
+      <div className='absolute bottom-5 right-0 text-primary-lightCyan bg-neutral-darkGB p-5 rounded-l-full shadow-lg'>
+        By <a className="text-primary-neonGreen" href="https://winterdew.github.io">Winterdew Studio</a>
+      </div>
       <CardWithButton className="w-[80%] lg:max-w-[60%] min-h-20 bg-neutral-darkGB" 
                       buttonCallback={handleButton}>
         <h2 className="tracking-[0.5em] text-xs font-bold text-center text-primary-neonGreen font-primary">
