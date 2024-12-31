@@ -2,4 +2,5 @@
 
 ### React Web App made as a learning exercise.
 
-### Credits [https://frontendmentor.io](https://frontendmentor.io)
+### Design and Idea Credits [https://frontendmentor.io](https://frontendmentor.io)
+### API Credits : [Advice Slip JSON API](https://api.adviceslip.com/)
